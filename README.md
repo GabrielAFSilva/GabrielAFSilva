@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-   Atualmente cursando Técnico em Informática na instituição Senac. 🖥️👩🏾‍💻
+   Atualmente estudando JavaScript. 🖥️👩🏾‍💻
   </p>
   
   <p align="center">
