@@ -9,11 +9,11 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor front-end atualmente morando em Guarujá-SP, Brasil.
+    Desenvolvedor de Software atualmente morando em Guarujá-SP, Brasil.
   </p>
   
   <p align="center">
-   Atualmente estudando JavaScript. 🖥️👩🏾‍💻
+   Atualmente estudando JavaScript e Node.Js. 🖥️👩🏾‍💻
   </p>
   
   <p align="center">
@@ -33,8 +33,12 @@
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.Js" height="60" width="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="Docker" height="60" width="60" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="MySQL" height="60" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Microsoft .Net" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
-   <img align="center" alt="CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+  <img align="center" alt="CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+  
 </div><br>
 
 <div align="center">
