@@ -33,6 +33,7 @@
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TailwindCSS" height="80" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img align="center" alt="Node.Js" height="60" width="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Docker" height="60" width="60" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="60" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
