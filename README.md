@@ -38,8 +38,6 @@
   <img align="center" alt="PHP" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
   <img align="center" alt="Docker" height="60" width="60" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="60" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
-  <img align="center" alt="Microsoft .Net" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
-  <img align="center" alt="CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
   
 </div><br>
 
